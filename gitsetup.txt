@@ -7,3 +7,6 @@ cat /home/master/.ssh/id_rsa.pub   #check public key and copy the key to github
 
 git remote add origin 'your_ssh_url_name'
 git push -u origin master  #push to the repo
+
+
+
