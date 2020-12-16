@@ -1,0 +1,8 @@
+python3 /home/user/hello.py  #run any python document as python scrypt
+
+sudo apt install default-jre  #installing java sdk
+
+sudo apt install default-jdk  #installing JDK
+    
+sudo snap install pycharm-professional --classic  #install pycharm (for IDE)
+
