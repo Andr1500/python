@@ -1,0 +1,1 @@
+[{"playername": "Zbych", "score": 300, "avards": ["1 class", "2nd class", "1st winner"]}, {"playername": "Zdislaw", "score": 250, "avards": ["1 places", "2nd places", "1st fly"]}]
