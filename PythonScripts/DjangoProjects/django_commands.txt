@@ -1,0 +1,11 @@
+django-project startproject MyWebSite  #run the project from console
+
+python3 startapp MyWebPage1  #for starting some web pages
+
+python3 manage.py startapp MyWebPage1  # for setting up new web page
+
+templates - is the directory for start pages (subpages)
+
+static - is the directory for static content (f.e. images)
+
+{% load static %} - the command for download static content

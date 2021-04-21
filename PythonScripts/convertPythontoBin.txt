@@ -1,0 +1,11 @@
+sudo apt-get install --reinstall python-pkg-resources
+
+sudo apt-get install build-essential python-dev
+
+whereis python3  #check the place of necessary program or file
+
+/home/a1500/.local/bin/pyinstaller --onefile linuxscript.py
+
+ cd /home/a1500/dist/linuxscript  #the dir where converted file was put
+
+./linuxscript
