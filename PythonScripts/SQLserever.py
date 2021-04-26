@@ -7,8 +7,8 @@ myDatabase = "testDB"
 connection = pypyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};'
                                 'SERVER=' + mySQLServer + ';'
                                 'DATABASE=' + myDatabase + ';')
-#                                'UID=a1500;'
-#                               'PWD=Q!121090;')
+#                                'UID=xxx;'
+#                               'PWD=zzz;')
 
 
 cursor = connection.cursor()
